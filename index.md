@@ -6,7 +6,7 @@ Computer Science.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/michaelcsuf.
+My GitHub page is [http://github.com/michaelcsuf](http://github.com/michaelcsuf).
 
 ### CPSC 120
 
